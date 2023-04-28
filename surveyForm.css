@@ -1,0 +1,104 @@
+/* .page {
+    width: 100%;
+    height: 100vh;
+    background-color: #000000;
+    display: flex;
+} */
+/* body {
+    display: flex;
+    justify-items: center;
+    justify-content: center;
+    background-color: black; */
+/* } */
+form {
+    height: 170vh;
+    width: 50%;
+    border-style: solid;
+}
+.center {
+    width: 100%;
+    height: 180vh;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    color: white;
+    padding-left: 5rem;
+}
+.abbre {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    list-style: none;
+    gap: 1rem;
+    
+}
+.move {
+    margin-right: 9rem;
+
+}
+.space {
+    margin-right: 2rem;
+    border-radius: 0.4rem;
+    padding:0.3rem 1.1rem 0.3rem 1.1rem;
+}
+.spaceRight {
+    padding: 0.3rem 1.1rem 0.3rem 1.1rem;
+    border-radius: 0.4rem;
+}
+.moved {
+    margin-right: 14rem;
+}
+.address {
+    padding: 0.3rem 8.4rem 0.3rem 8.4rem; 
+    border-radius: 0.4rem;
+}
+.second-address {
+    padding: 0.3rem 8.4rem 0.3rem 8.4rem; 
+    border-radius: 0.4rem;
+}
+.username {
+    display: flex;
+    align-content: center;
+    gap: 5rem;
+}
+.street-line {
+    padding: 0.3rem 1.1rem 0.3rem 1.1rem; 
+    border-radius: 0.4rem;
+}
+.street2 {
+    padding: 0.3rem 1.1rem 0.3rem 1.1rem; 
+    border-radius: 0.4rem;
+    margin-left: 2rem;
+
+}
+.city-state {
+    display: flex;
+    list-style: none;
+    gap: 11.04rem;
+}
+.zip {
+    padding: 0.3rem 1.1rem 0.3rem 1.1rem; 
+    border-radius: 0.4rem;
+
+}
+.form-select {
+    border-radius: 0.4rem;
+    padding:0.3rem 1.1rem 0.3rem 1.1rem;
+}
+.contact {
+    border-radius: 0.4rem;
+    padding:0.3rem 1.1rem 0.3rem 1.1rem;
+}
+.contact-two {
+    border-radius: 0.4rem;
+    padding:0.3rem 1.1rem 0.3rem 1.1rem;
+}
+.contacts {
+    gap: 6rem;
+}
+.radio {
+    list-style: none;
+}
+.radio > li {
+    margin-right: 6rem;
+}

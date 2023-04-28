@@ -1,0 +1,86 @@
+.first-cat {
+    width: 20rem;
+    height: 15rem;
+}
+
+.fourth-cat {
+    width: 20rem;
+    height: 15rem;
+}
+.fifth-cat {
+    width: 20rem;
+    height: 15rem; 
+}
+.first-border {
+    outline-style: solid;
+    outline-color:black;
+    width: 19rem;
+}
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.header {
+    margin-left: 2.7rem;
+    box-shadow: 10px darkslateblue;
+}
+.sub-header {
+    margin-left: 6.19rem;
+}
+.underline {
+    text-decoration: none;
+    color: white;
+}
+.second-underline {
+    text-decoration: none;
+    color: white;
+}
+.third-underline {
+    text-decoration: none;
+    color: white;
+}
+.fourth-underline {
+    text-decoration: none;
+    color: white;
+    margin-left: 8rem;
+}
+.second-border {
+    outline-style: solid;
+    width: 19rem;
+    background-color:rgb(25, 39, 112);
+}
+.sub-top {
+    margin-left: 2.7rem;
+    word-spacing: 1.67rem;
+}
+.events {
+    line-height: 2.3;
+}
+.write-up {
+    padding-bottom: 3rem;
+}
+.dot {
+    list-style: none;
+    padding-bottom: 3rem;
+    margin-right: 2rem;
+}
+.line {
+    border: 5rem;
+    border-color: blueviolet;
+}
+div.footer {
+  word-spacing: 0.5rem;
+}
+.footer {
+    text-decoration: none;
+}
+.second-footer {
+    text-decoration: none;
+}
+.third-footer {
+    text-decoration: none;
+}
+.fourth-footer {
+    text-decoration: none;
+}
